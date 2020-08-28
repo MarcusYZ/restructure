@@ -6,10 +6,9 @@
 
 .control h1 {
   width: 100%;
-  font-size: 100px;
+  font-size: 74px;
   text-align: center;
   margin: 0px;
-  color: rgba(175, 47, 47, 0.15)
 }
 
 .control span {
@@ -61,9 +60,7 @@
   text-decoration: line-through;
 }
 
-.todo-item button {
-  border: 0;
-  outline: 0;
+.todo-item span {
   display: block;
   width: 40px;
   text-align: center;
